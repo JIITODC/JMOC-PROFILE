@@ -6,8 +6,8 @@
 
 ---
 
-# Contact us
+# Results (JMoC 2019)
 
-Mail us at jiitodc@gmail.com .
+To be announced Soon.
 
 ---
