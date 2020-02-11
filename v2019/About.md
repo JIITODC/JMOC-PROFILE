@@ -34,31 +34,6 @@ Join us at our [Facebook group](https://www.facebook.com/groups/jiitodc/permalin
 
 # Team Members
 
-### Coordinators
-
-| S.No. | Name | GitHub Profile |
-|:------|:-----|:--------------:|
-| 1 | Kanchan Joshi | [visit](https://github.com/koderjoker) |
-| 2 | Karan Dev Tyagi | [visit](https://github.com/karandevtyagi) |
-| 3 | Pranshu Srivastava | [visit](https://github.com/rexagod) |
-| 4 | Shikhar Kataruka | [visit](https://github.com/shikhar9820) |
-| 5 | Tripti Shukla | [visit](https://github.com/yellowwoods12) |
-| 6 | Vaibhav Gupta | [visit](https://github.com/VARoDeK) |
-
----
-
-### Volunteers
-
-| S.No. | Name | GitHub Profile |
-|:------|:-----|:--------------:|
-| 1 | Ankur Kothiwal | [visit](https://github.com/Ankurk99) |
-| 2 | Arushi Verma | [visit](https://github.com/av-00) |
-| 3 | Ayush | [visit](https://github.com/eldraco19/) |
-| 4 | Ayush Dwivedi | [visit](https://github.com/AyushOneironaut) |
-| 5 | Divyansh Kamboj | [visit](https://github.com/weirdwiz) |
-| 6 | Dharmveer Singh | [visit](https://github.com/moriarity9211) |
-| 7 | Eshan Dhawan | [visit](https://github.com/eshandhawan51) |
-| 8 | Nishit Anand | [visit](https://github.com/nishitanand) |
-| 9 | Prakher Prashank | [visit](https://github.com/im-prakher) |
+The event was organized and managed by JODC. The team has worked hard, day and night, to make this event successful. Check out the [JODC Team Members](https://github.com/JIITODC/JODC-TEAM/blob/master/2019-2020/README.md) for JMoC 2019.
 
 ---
