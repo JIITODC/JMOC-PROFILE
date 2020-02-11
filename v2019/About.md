@@ -20,7 +20,7 @@ At the end of the program, mentors are expected to provide feedback to the stude
 
 ---
 
-# About the Organising team
+# About the Organising Team
 
 According to GitHub’s “State of the Octoverse” report, 99% of software projects in the world use Open Source Technologies in some way or the other. Open source has undoubtably changed the world, and we, the JIIT Open-Source Developers Circle aim to help students to become a part of it.
 
