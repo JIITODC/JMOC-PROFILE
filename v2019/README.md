@@ -42,6 +42,6 @@ To introduce newcomers to open source on how to work with Git and GitHub, contri
 - [x] Mentors and Projects Announced.
 - [x] Coding Period Starts.
 - [x] Coding Period Ends.
-- [ ] Results Announced.
+- [x] Results Announced. [Check Results Here](Results.md)
   
 ---
