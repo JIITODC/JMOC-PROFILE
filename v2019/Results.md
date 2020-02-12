@@ -18,21 +18,21 @@ But most importantly, we would like to congratulate all the students who partici
 
 ---
 
-## Students passing final Evaluation
+## Students Passing Final Evaluation
 
 Names are mentioned in random order.
 
 | S.No | Name | GitHub Profile |
 |:--|:--|:--:|
-| 1 | Simran bhardwaj | [View](https://github.com/Simran-bhardwaj) |
-| 2 | Anmol karn | [View](https://github.com/codetronaut) |
+| 1 | Simran Bhardwaj | [View](https://github.com/Simran-bhardwaj) |
+| 2 | Anmol Karn | [View](https://github.com/codetronaut) |
 | 3 | Aditya Pandey | [View](https://github.com/infiniteaditya) |
 | 4 | Harsh Bardhan Mishra | [View](https://github.com/harshcasper) |
 | 5 | Vaibhav Jindal | [View](https://github.com/ivaibhavjindal) |
 | 6 | Ambika Sadhu | [View](https://github.com/ambika1101) |
 | 7 | Aksh Gupta | [View](https://github.com/akshgpt7) |
 | 8 | Barun Acharya | [View](https://github.com/daemon1024) |
-| 9 | Rishabh gupta | [View](https://github.com/imrishabh18) |
+| 9 | Rishabh Gupta | [View](https://github.com/imrishabh18) |
 | 10 | Anmol Garg | [View](https://github.com/anmolgarg1134) |
 | 11 | Rajiv Ranjan Singh | [View](https://github.com/iamrajiv) |
 | 12 | Nethish | [View](https://github.com/nethish) |
@@ -47,15 +47,15 @@ Names are mentioned in random order.
 
 | S.No | Name | GitHub Profile |
 |:--|:--|:--:|
-| 1 | Simran bhardwaj | [View](https://github.com/Simran-bhardwaj) |
-| 2 | Anmol karn | [View](https://github.com/codetronaut) |
+| 1 | Simran Bhardwaj | [View](https://github.com/Simran-bhardwaj) |
+| 2 | Anmol Karn | [View](https://github.com/codetronaut) |
 | 3 | Aditya Pandey | [View](https://github.com/infiniteaditya) |
 | 4 | Harsh Bardhan Mishra | [View](https://github.com/harshcasper) |
 | 5 | Vaibhav Jindal | [View](https://github.com/ivaibhavjindal) |
 | 6 | Ambika Sadhu | [View](https://github.com/ambika1101) |
 | 7 | Aksh Gupta | [View](https://github.com/akshgpt7) |
 | 8 | Barun Acharya | [View](https://github.com/daemon1024) |
-| 9 | Rishabh gupta | [View](https://github.com/imrishabh18) |
+| 9 | Rishabh Gupta | [View](https://github.com/imrishabh18) |
 | 10 | Anmol Garg | [View](https://github.com/anmolgarg1134) |
 
 ---
